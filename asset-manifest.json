@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/minecraft-freecodecamp/static/css/main.f4494157.css",
-    "main.js": "/minecraft-freecodecamp/static/js/main.c0f6ffb6.js",
+    "main.css": "/minecraft-freecodecamp/static/css/main.29549e32.css",
+    "main.js": "/minecraft-freecodecamp/static/js/main.33b6fa38.js",
     "index.html": "/minecraft-freecodecamp/index.html",
-    "main.f4494157.css.map": "/minecraft-freecodecamp/static/css/main.f4494157.css.map",
-    "main.c0f6ffb6.js.map": "/minecraft-freecodecamp/static/js/main.c0f6ffb6.js.map"
+    "main.29549e32.css.map": "/minecraft-freecodecamp/static/css/main.29549e32.css.map",
+    "main.33b6fa38.js.map": "/minecraft-freecodecamp/static/js/main.33b6fa38.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4494157.css",
-    "static/js/main.c0f6ffb6.js"
+    "static/css/main.29549e32.css",
+    "static/js/main.33b6fa38.js"
   ]
 }
